@@ -19,7 +19,7 @@ The database contains 10+ interrelated tables with appropriate primary/foreign k
 - **Transactions**: Records payment details and status  
 - **Comments, Followers, Notifications, Updates**: Enhance user engagement
 
-![ER Diagram](#) *(Insert your ER diagram image or link here)*
+![ER Diagram](#) *(https://github.com/MontyVasita18/Crowdfunding-Platform-SQL-Database_Project/blob/main/New%20Schema.pdf)*
 
 ## 🧠 Business Insights & Sample Queries
 
